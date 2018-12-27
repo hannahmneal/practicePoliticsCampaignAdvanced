@@ -5,3 +5,17 @@ body {
 h1 {
     color: darkblue;
 }
+
+
+
+#campaign-container {
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-between;
+    flex-flow: row nowrap;
+}
+
+#constituents-container {
+    
+}
+
